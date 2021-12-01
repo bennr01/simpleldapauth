@@ -17,7 +17,7 @@ First, create a LDAP configuration file like this:
 ```json
 {
     "host": "example.org",
-    "port": 636",
+    "port": 636,
     "user_dn": "",
     "active_directory": false,
     "use_ssl": true,
