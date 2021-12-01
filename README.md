@@ -35,7 +35,7 @@ This will return either `True` or `False`, depending on the success.
 
 ## Aknowledgements
 
-90% of this code is taken from [Kadi4Mat](https://gitlab.com/iam-cms/kadi).
+90% of this code is taken from [Kadi4Mat](https://gitlab.com/iam-cms/kadi) developed by the Karlsruhe Institute of Technology.
 
 
 ## Changes of code compared to original Kadi4Mat version:
